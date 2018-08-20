@@ -54,6 +54,7 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE \
       -D WITH_V4L=ON \
       -D WITH_QT=ON \
       -D WITH_OPENGL=ON \
+      -D WITH_VTK=ON \
       -D OPENCV_EXTRA_MODULES_PATH=../../opencv_contrib/modules \
       -D BUILD_EXAMPLES=ON ..
 #compile and install
