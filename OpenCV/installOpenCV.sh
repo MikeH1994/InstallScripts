@@ -34,7 +34,7 @@ sudo pip3 install numpy scipy matplotlib scikit-image scikit-learn ipython
 cd ~
 git clone https://github.com/opencv/opencv.git
 cd opencv 
-git checkout 3.4.0 
+git checkout 3.4.1
 cd ..
 #download opencv_contrib from github
 git clone https://github.com/opencv/opencv_contrib.git
