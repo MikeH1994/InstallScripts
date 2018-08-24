@@ -1,4 +1,4 @@
 sudo apt-get -y install libglade2-dev
-sudo apt-get -y install libX11-dev
+sudo apt-get -y install libx11-dev
 sudo apt-get -y install libxext-dev
 #download https://www.teledynedalsa.com/download/4429/4431/
