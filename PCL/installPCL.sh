@@ -1,2 +1,2 @@
 sudo apt-get update
-sudo apt-get libpcl-dev
+sudo apt-get install libpcl-dev
